@@ -1,0 +1,7 @@
+﻿'2DatatypesandArray.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Private.CoreLib.dll'. 
+'2DatatypesandArray.exe' (CoreCLR: clrhost): Loaded 'C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\bin\Debug\net5.0\2DatatypesandArray.dll'. Symbols loaded.
+'2DatatypesandArray.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Runtime.dll'. 
+'2DatatypesandArray.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Console.dll'. 
+'2DatatypesandArray.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Threading.dll'. 
+'2DatatypesandArray.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Text.Encoding.Extensions.dll'. 
+The program '[17532] 2DatatypesandArray.exe' has exited with code 0 (0x0).

@@ -1,0 +1,16 @@
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\bin\Debug\net5.0\MultiplicationOfMatrices.exe
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\bin\Debug\net5.0\MultiplicationOfMatrices.deps.json
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\bin\Debug\net5.0\MultiplicationOfMatrices.runtimeconfig.json
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\bin\Debug\net5.0\MultiplicationOfMatrices.runtimeconfig.dev.json
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\bin\Debug\net5.0\MultiplicationOfMatrices.dll
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\bin\Debug\net5.0\ref\MultiplicationOfMatrices.dll
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\bin\Debug\net5.0\MultiplicationOfMatrices.pdb
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\obj\Debug\net5.0\MultiplicationOfMatrices.csproj.AssemblyReference.cache
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\obj\Debug\net5.0\MultiplicationOfMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\obj\Debug\net5.0\MultiplicationOfMatrices.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\obj\Debug\net5.0\MultiplicationOfMatrices.AssemblyInfo.cs
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\obj\Debug\net5.0\MultiplicationOfMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\obj\Debug\net5.0\MultiplicationOfMatrices.dll
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\obj\Debug\net5.0\ref\MultiplicationOfMatrices.dll
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\obj\Debug\net5.0\MultiplicationOfMatrices.pdb
+C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\obj\Debug\net5.0\MultiplicationOfMatrices.genruntimeconfig.cache
