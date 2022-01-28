@@ -15,7 +15,7 @@ namespace Palindrome
             bool b = string1.Equals(rev, StringComparison.OrdinalIgnoreCase);
             if (b == true)
             {
-                Console.WriteLine("" + string1 + " is a Palindrome!");
+                Console.WriteLine(" " + string1 + " is a Palindrome!");
             }
             else
             {

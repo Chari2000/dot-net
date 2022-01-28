@@ -33,7 +33,7 @@ namespace SumofMatrices
             {
                 for (int j = 0; j < 2; j++)
                 {
-                    s3[i, j] = s1[i, j] * s2[i, j];
+                    s3[i, j] = s1[i, j] + s2[i, j];
                     Console.Write(s3[i, j] + "\t");
 
                 }

@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: MultiplicationOfMatrices, Configuration: Debug Any CPU ------
+1>MultiplicationOfMatrices -> C:\Users\Upendra Chary\source\repos\MultiplicationOfMatrices\MultiplicationOfMatrices\bin\Debug\net5.0\MultiplicationOfMatrices.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
