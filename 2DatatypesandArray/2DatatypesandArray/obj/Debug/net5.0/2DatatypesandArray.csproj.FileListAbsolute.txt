@@ -1,0 +1,16 @@
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\bin\Debug\net5.0\2DatatypesandArray.exe
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\bin\Debug\net5.0\2DatatypesandArray.deps.json
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\bin\Debug\net5.0\2DatatypesandArray.runtimeconfig.json
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\bin\Debug\net5.0\2DatatypesandArray.runtimeconfig.dev.json
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\bin\Debug\net5.0\2DatatypesandArray.dll
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\bin\Debug\net5.0\ref\2DatatypesandArray.dll
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\bin\Debug\net5.0\2DatatypesandArray.pdb
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\obj\Debug\net5.0\2DatatypesandArray.csproj.AssemblyReference.cache
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\obj\Debug\net5.0\2DatatypesandArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\obj\Debug\net5.0\2DatatypesandArray.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\obj\Debug\net5.0\2DatatypesandArray.AssemblyInfo.cs
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\obj\Debug\net5.0\2DatatypesandArray.csproj.CoreCompileInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\obj\Debug\net5.0\2DatatypesandArray.dll
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\obj\Debug\net5.0\ref\2DatatypesandArray.dll
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\obj\Debug\net5.0\2DatatypesandArray.pdb
+C:\Users\Upendra Chary\Desktop\training demos\2DatatypesandArray\2DatatypesandArray\obj\Debug\net5.0\2DatatypesandArray.genruntimeconfig.cache

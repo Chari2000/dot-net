@@ -1,0 +1,15 @@
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\obj\Debug\net5.0\Demo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\obj\Debug\net5.0\Demo3.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\obj\Debug\net5.0\Demo3.AssemblyInfo.cs
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\obj\Debug\net5.0\Demo3.csproj.CoreCompileInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\bin\Debug\net5.0\Demo3.exe
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\bin\Debug\net5.0\Demo3.deps.json
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\bin\Debug\net5.0\Demo3.runtimeconfig.json
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\bin\Debug\net5.0\Demo3.runtimeconfig.dev.json
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\bin\Debug\net5.0\Demo3.dll
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\bin\Debug\net5.0\ref\Demo3.dll
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\bin\Debug\net5.0\Demo3.pdb
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\obj\Debug\net5.0\Demo3.dll
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\obj\Debug\net5.0\ref\Demo3.dll
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\obj\Debug\net5.0\Demo3.pdb
+C:\Users\Upendra Chary\Desktop\training demos\Demo3\Demo3\obj\Debug\net5.0\Demo3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\bin\Release\net5.0\first console.exe
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\bin\Release\net5.0\first console.deps.json
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\bin\Release\net5.0\first console.runtimeconfig.json
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\bin\Release\net5.0\first console.runtimeconfig.dev.json
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\bin\Release\net5.0\first console.dll
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\bin\Release\net5.0\ref\first console.dll
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\bin\Release\net5.0\first console.pdb
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\obj\Release\net5.0\first console.csproj.AssemblyReference.cache
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\obj\Release\net5.0\first console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\obj\Release\net5.0\first console.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\obj\Release\net5.0\first console.AssemblyInfo.cs
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\obj\Release\net5.0\first console.csproj.CoreCompileInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\obj\Release\net5.0\first console.dll
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\obj\Release\net5.0\ref\first console.dll
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\obj\Release\net5.0\first console.pdb
+C:\Users\Upendra Chary\Desktop\training demos\first console\first console\obj\Release\net5.0\first console.genruntimeconfig.cache

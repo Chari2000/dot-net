@@ -1,0 +1,15 @@
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\bin\Debug\net5.0\SumofMatrices.exe
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\bin\Debug\net5.0\SumofMatrices.deps.json
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\bin\Debug\net5.0\SumofMatrices.runtimeconfig.json
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\bin\Debug\net5.0\SumofMatrices.runtimeconfig.dev.json
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\bin\Debug\net5.0\SumofMatrices.dll
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\bin\Debug\net5.0\ref\SumofMatrices.dll
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\bin\Debug\net5.0\SumofMatrices.pdb
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\obj\Debug\net5.0\SumofMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\obj\Debug\net5.0\SumofMatrices.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\obj\Debug\net5.0\SumofMatrices.AssemblyInfo.cs
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\obj\Debug\net5.0\SumofMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\obj\Debug\net5.0\SumofMatrices.dll
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\obj\Debug\net5.0\ref\SumofMatrices.dll
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\obj\Debug\net5.0\SumofMatrices.pdb
+C:\Users\Upendra Chary\Desktop\training demos\SumofMatrices\SumofMatrices\obj\Debug\net5.0\SumofMatrices.genruntimeconfig.cache
