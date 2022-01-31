@@ -8,7 +8,7 @@ namespace ObjectClass
 {
     class String
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
 
             string s = "some value";
