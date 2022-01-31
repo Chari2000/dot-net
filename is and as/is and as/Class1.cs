@@ -8,7 +8,7 @@ namespace is_and_as
 {
     class Class1
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
 
             int index;
