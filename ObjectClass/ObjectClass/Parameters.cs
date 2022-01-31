@@ -8,7 +8,7 @@ namespace ObjectClass
 {
     class Parameters
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             sample(10);
             sample(10, 20);
