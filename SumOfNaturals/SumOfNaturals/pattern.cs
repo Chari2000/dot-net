@@ -8,7 +8,7 @@ namespace SumOfNaturals
 {
     class pattern
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             int val = 4;
             int i, j, k;
