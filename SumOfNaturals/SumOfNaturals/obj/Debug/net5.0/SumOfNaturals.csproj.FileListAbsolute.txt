@@ -1,0 +1,16 @@
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\bin\Debug\net5.0\SumOfNaturals.exe
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\bin\Debug\net5.0\SumOfNaturals.deps.json
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\bin\Debug\net5.0\SumOfNaturals.runtimeconfig.json
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\bin\Debug\net5.0\SumOfNaturals.runtimeconfig.dev.json
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\bin\Debug\net5.0\SumOfNaturals.dll
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\bin\Debug\net5.0\ref\SumOfNaturals.dll
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\bin\Debug\net5.0\SumOfNaturals.pdb
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\obj\Debug\net5.0\SumOfNaturals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\obj\Debug\net5.0\SumOfNaturals.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\obj\Debug\net5.0\SumOfNaturals.AssemblyInfo.cs
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\obj\Debug\net5.0\SumOfNaturals.csproj.CoreCompileInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\obj\Debug\net5.0\SumOfNaturals.dll
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\obj\Debug\net5.0\ref\SumOfNaturals.dll
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\obj\Debug\net5.0\SumOfNaturals.pdb
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\obj\Debug\net5.0\SumOfNaturals.genruntimeconfig.cache
+C:\Users\Upendra Chary\Desktop\training demos\SumOfNaturals\SumOfNaturals\obj\Debug\net5.0\SumOfNaturals.csproj.AssemblyReference.cache
