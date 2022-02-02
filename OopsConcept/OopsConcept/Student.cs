@@ -47,7 +47,7 @@ namespace OopsConcept
     }
     class Student
     {
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             StdInfo[] s = new StdInfo[2];
             for (int i = 0; i < 2; i++)
