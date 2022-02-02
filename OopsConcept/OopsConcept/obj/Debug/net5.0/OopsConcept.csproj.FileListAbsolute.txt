@@ -1,0 +1,15 @@
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\obj\Debug\net5.0\OopsConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\obj\Debug\net5.0\OopsConcept.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\obj\Debug\net5.0\OopsConcept.AssemblyInfo.cs
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\obj\Debug\net5.0\OopsConcept.csproj.CoreCompileInputs.cache
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\bin\Debug\net5.0\OopsConcept.exe
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\bin\Debug\net5.0\OopsConcept.deps.json
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\bin\Debug\net5.0\OopsConcept.runtimeconfig.json
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\bin\Debug\net5.0\OopsConcept.runtimeconfig.dev.json
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\bin\Debug\net5.0\OopsConcept.dll
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\bin\Debug\net5.0\ref\OopsConcept.dll
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\bin\Debug\net5.0\OopsConcept.pdb
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\obj\Debug\net5.0\OopsConcept.dll
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\obj\Debug\net5.0\ref\OopsConcept.dll
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\obj\Debug\net5.0\OopsConcept.pdb
+C:\Users\Upendra Chary\source\repos\OopsConcept\OopsConcept\obj\Debug\net5.0\OopsConcept.genruntimeconfig.cache
