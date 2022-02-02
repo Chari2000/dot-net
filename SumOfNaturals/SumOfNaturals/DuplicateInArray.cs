@@ -8,7 +8,7 @@ namespace SumOfNaturals
 {
     class DuplicateInArray
     {
-        static void Main(string[] args)
+        static void Main5(string[] args)
         {
             int[] arr = { 1, 1, 2, 3, 4,1, 5,5};
             int l = arr.Length;
