@@ -8,7 +8,7 @@ namespace ObjectClass
 {
     class LeapYear
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             Console.WriteLine("Enter a year to check leap year or not:");
             int year = Convert.ToInt32(Console.ReadLine());
