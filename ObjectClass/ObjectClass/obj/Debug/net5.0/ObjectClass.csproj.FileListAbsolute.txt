@@ -1,3 +1,7 @@
+C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.AssemblyInfo.cs
+C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.csproj.CoreCompileInputs.cache
 C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.exe
 C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.deps.json
 C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.runtimeconfig.json
@@ -5,10 +9,6 @@ C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\bin\Debug\
 C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.dll
 C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\bin\Debug\net5.0\ref\ObjectClass.dll
 C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.pdb
-C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.AssemblyInfoInputs.cache
-C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.AssemblyInfo.cs
-C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.csproj.CoreCompileInputs.cache
 C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.dll
 C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ref\ObjectClass.dll
 C:\Users\Upendra Chary\Desktop\training demos\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.pdb

@@ -8,11 +8,11 @@ namespace ObjectClass
 {
     class Rectangle:Shape
     {
-        public double side1, side2;
+        protected double side1, side2;
     }
     class Circle:Shape
     {
-        public double radius;
+        protected double radius;
     }
     class Shape
 
@@ -40,7 +40,7 @@ namespace ObjectClass
     }
     class ProblemStatement
     {
-        static void Main(string[] args)
+        static void Main9(string[] args)
         {
             Circle cir = new Circle();
             Rectangle rect = new Rectangle();
