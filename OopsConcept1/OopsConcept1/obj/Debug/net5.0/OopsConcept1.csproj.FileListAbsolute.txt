@@ -1,4 +1,3 @@
-C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.csproj.AssemblyReference.cache
 C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.AssemblyInfoInputs.cache
 C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.AssemblyInfo.cs

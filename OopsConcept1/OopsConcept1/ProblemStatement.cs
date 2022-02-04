@@ -48,7 +48,7 @@ public struct Square
 }
 public class ProblemStatement
 {
-    static void Main()
+    static void Main8()
     {
         Console.Write("\n\nMethod that returns a structure  :\n");
         Console.Write("--------------------------------------\n");
