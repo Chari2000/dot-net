@@ -1,0 +1,16 @@
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.csproj.AssemblyReference.cache
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.AssemblyInfo.cs
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.csproj.CoreCompileInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\bin\Debug\net5.0\OopsConcept1.exe
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\bin\Debug\net5.0\OopsConcept1.deps.json
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\bin\Debug\net5.0\OopsConcept1.runtimeconfig.json
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\bin\Debug\net5.0\OopsConcept1.runtimeconfig.dev.json
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\bin\Debug\net5.0\OopsConcept1.dll
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\bin\Debug\net5.0\ref\OopsConcept1.dll
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\bin\Debug\net5.0\OopsConcept1.pdb
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.dll
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\ref\OopsConcept1.dll
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.pdb
+C:\Users\Upendra Chary\Desktop\training demos\OopsConcept1\OopsConcept1\obj\Debug\net5.0\OopsConcept1.genruntimeconfig.cache
