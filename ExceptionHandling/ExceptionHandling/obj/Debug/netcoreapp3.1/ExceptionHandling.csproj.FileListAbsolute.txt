@@ -11,3 +11,4 @@ C:\Users\Upendra Chary\Desktop\training demos\ExceptionHandling\ExceptionHandlin
 C:\Users\Upendra Chary\Desktop\training demos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
 C:\Users\Upendra Chary\Desktop\training demos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
 C:\Users\Upendra Chary\Desktop\training demos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
+C:\Users\Upendra Chary\Desktop\training demos\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.AssemblyReference.cache
