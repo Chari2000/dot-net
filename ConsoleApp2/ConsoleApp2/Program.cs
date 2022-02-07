@@ -22,7 +22,7 @@ namespace ConsoleApp2
             }
 
         }
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
 
             sample<string> name = new sample<string>();
