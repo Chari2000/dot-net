@@ -7,7 +7,7 @@ namespace ExceptionHandling
 {
     internal class RegexHandling
     {
-        static void Main(string[] args)
+        static void Main4(string[] args)
         {
             //this will return any pattern line ab,aab,aaab;
             //Regex re = new Regex("a*b");

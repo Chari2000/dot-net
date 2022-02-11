@@ -1,0 +1,5 @@
+C:\Users\Upendra Chary\Desktop\training demos\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.csproj.AssemblyReference.cache
+C:\Users\Upendra Chary\Desktop\training demos\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\Desktop\training demos\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.AssemblyInfo.cs
+C:\Users\Upendra Chary\Desktop\training demos\Collections.Generics\Collections.Generics\obj\Debug\netcoreapp3.1\Collections.Generics.csproj.CoreCompileInputs.cache

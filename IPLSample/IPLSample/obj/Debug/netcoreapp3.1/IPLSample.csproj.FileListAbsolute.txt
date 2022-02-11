@@ -1,0 +1,14 @@
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\bin\Debug\netcoreapp3.1\IPLSample.exe
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\bin\Debug\netcoreapp3.1\IPLSample.deps.json
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\bin\Debug\netcoreapp3.1\IPLSample.runtimeconfig.json
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\bin\Debug\netcoreapp3.1\IPLSample.runtimeconfig.dev.json
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\bin\Debug\netcoreapp3.1\IPLSample.dll
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\bin\Debug\netcoreapp3.1\IPLSample.pdb
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\obj\Debug\netcoreapp3.1\IPLSample.csproj.AssemblyReference.cache
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\obj\Debug\netcoreapp3.1\IPLSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\obj\Debug\netcoreapp3.1\IPLSample.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\obj\Debug\netcoreapp3.1\IPLSample.AssemblyInfo.cs
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\obj\Debug\netcoreapp3.1\IPLSample.csproj.CoreCompileInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\obj\Debug\netcoreapp3.1\IPLSample.dll
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\obj\Debug\netcoreapp3.1\IPLSample.pdb
+C:\Users\Upendra Chary\Desktop\training demos\IPLSample\IPLSample\obj\Debug\netcoreapp3.1\IPLSample.genruntimeconfig.cache
