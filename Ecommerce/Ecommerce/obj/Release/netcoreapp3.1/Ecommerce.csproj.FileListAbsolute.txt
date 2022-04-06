@@ -1,0 +1,6 @@
+C:\Users\Upendra Chary\Desktop\training demos\Ecommerce\Ecommerce\obj\Release\netcoreapp3.1\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\Upendra Chary\Desktop\training demos\Ecommerce\Ecommerce\obj\Release\netcoreapp3.1\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upendra Chary\Desktop\training demos\Ecommerce\Ecommerce\obj\Release\netcoreapp3.1\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\Ecommerce\Ecommerce\obj\Release\netcoreapp3.1\Ecommerce.AssemblyInfo.cs
+C:\Users\Upendra Chary\Desktop\training demos\Ecommerce\Ecommerce\obj\Release\netcoreapp3.1\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Upendra Chary\Desktop\training demos\Ecommerce\Ecommerce\obj\Release\netcoreapp3.1\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
